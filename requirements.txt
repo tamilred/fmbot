@@ -1,0 +1,5 @@
+pyrogram
+beautifulsoup4
+requests
+python-dotenv
+tgcrypto
